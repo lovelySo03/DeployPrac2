@@ -1,0 +1,16 @@
+[{
+	"model": "accounts.User",
+	"pk": 1,
+	"fields": {
+		"username": "admin",
+		"financial_products": "21001236",
+		"age": 30,
+		"money": 64900000,
+		"salary": 1380000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": true,
+		"is_superuser": true
+	}
+}]
